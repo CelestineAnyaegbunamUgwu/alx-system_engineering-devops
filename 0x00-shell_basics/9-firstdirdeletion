@@ -1,0 +1,3 @@
+#!/bin/sh
+sudo rmdir -r tmp/my_first_directory
+
