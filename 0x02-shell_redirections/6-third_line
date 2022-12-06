@@ -1,0 +1,5 @@
+#!/bin/bash
+# To get third line 
+# I will get the first 3 lines with head -3, and then get the last last line with tail -1 with PIPE
+head -3 /iacta | tail -1 /iacta
+
